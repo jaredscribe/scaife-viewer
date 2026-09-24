@@ -1,31 +1,31 @@
 PerseusDL/canonical-latinLit:
-  ref: 0.0.23556490160
-  sha: 5fa09bbd25532fca02cb7584ef888f0204dab67c
-  tarball_url: https://api.github.com/repos/PerseusDL/canonical-latinLit/tarball/0.0.23556490160
+  ref: 0.0.33195683883
+  sha: cc843833e101992ba54549005273cfe61a33504b
+  tarball_url: https://api.github.com/repos/PerseusDL/canonical-latinLit/tarball/0.0.33195683883
 PerseusDL/canonical-greekLit:
-  ref: 0.0.23911725295
-  sha: f073339882fd989aec46ca0826e75f3da0b723dc
-  tarball_url: https://api.github.com/repos/PerseusDL/canonical-greekLit/tarball/0.0.23911725295
+  ref: 0.0.35759557961
+  sha: bcc5df0602f3b3fe6fefe1e1d575602a25ab1db6
+  tarball_url: https://api.github.com/repos/PerseusDL/canonical-greekLit/tarball/0.0.35759557961
 PerseusDL/canonical-engLit:
-  ref: 0.0.10065281755
-  sha: 1f15cabc0ea0b8b3e82fe7bd8570d8ee2d137405
-  tarball_url: https://api.github.com/repos/PerseusDL/canonical-engLit/tarball/0.0.10065281755
+  ref: 0.0.27775717410
+  sha: f73fc156828cbf97b7a06f1eefa320b0af7b5a2b
+  tarball_url: https://api.github.com/repos/PerseusDL/canonical-engLit/tarball/0.0.27775717410
 OpenGreekAndLatin/csel-dev:
   ref: 1.1.22200631708
-  sha: 00f9474dd3ffb9373a8ae53218f9ea41b7efd309
+  sha: 2813e3a52b4206df0324299e5110e5bd0d95cee4
   tarball_url: https://api.github.com/repos/OpenGreekAndLatin/csel-dev/tarball/1.1.22200631708
 PerseusDL/canonical-farsiLit:
   ref: 0.0.11
   sha: 1ce632ece8a2af0646195a0531f5e8f39b161f72
   tarball_url: https://api.github.com/repos/PerseusDL/canonical-farsiLit/tarball/0.0.11
 PerseusDL/canonical-pdlpsci:
-  ref: v0.4.0
-  sha: 02346d884baac129ab3e21374a54f5b8c5b12522
-  tarball_url: https://api.github.com/repos/PerseusDL/canonical-pdlpsci/tarball/v0.4.0
+  ref: v0.6.0
+  sha: 13730472599c94b90cb11946b4946697ed8680fc
+  tarball_url: https://api.github.com/repos/PerseusDL/canonical-pdlpsci/tarball/v0.6.0
 OpenGreekAndLatin/First1KGreek:
-  ref: 1.1.18983254520
-  sha: 6812dab555d04ec9c6510a510571062284f6df3a
-  tarball_url: https://api.github.com/repos/OpenGreekAndLatin/First1KGreek/tarball/1.1.18983254520
+  ref: 1.1.34630329557
+  sha: 8ee111eb44ecef4120c844e10749178d95d1f30c
+  tarball_url: https://api.github.com/repos/OpenGreekAndLatin/First1KGreek/tarball/1.1.34630329557
 OpenGreekAndLatin/Latin:
   ref: 1.1.13528514871
   sha: 78a03e635536bcd7ddea586fbdff9fbe8a897917
@@ -55,6 +55,6 @@ telota/galen:
   sha: eeb8da0ce066e6f4a90067c2f0d5b7d921cbb76c
   tarball_url: https://api.github.com/repos/telota/galen/tarball/0.0.15896933115
 Mythologos/Notre-Dame-Digitized-Latin-Collection:
-  ref: v1.0.8
-  sha: f9f2c2ee9800aae3e7b9c39d46103faae1a68551
-  tarball_url: https://api.github.com/repos/Mythologos/Notre-Dame-Digitized-Latin-Collection/tarball/v1.0.8
+  ref: v1.0.9
+  sha: 977a0ba28582eb32b3c83c8933d97efb689fb0b6
+  tarball_url: https://api.github.com/repos/Mythologos/Notre-Dame-Digitized-Latin-Collection/tarball/v1.0.9
